@@ -26,6 +26,11 @@ export default new Router({
       component: require('@/components/testFile').default
     },
     {
+      path: '/testDB',
+      name: 'testDB',
+      component: require('@/components/testDB').default
+    },
+    {
       path: '*',
       redirect: '/'
     }

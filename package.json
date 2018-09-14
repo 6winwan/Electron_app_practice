@@ -60,6 +60,7 @@
   "dependencies": {
     "axios": "^0.16.1",
     "build": "^0.1.4",
+    "nedb": "^1.8.0",
     "vue": "^2.4.2",
     "vue-electron": "^1.0.6",
     "vue-router": "^2.5.3",
